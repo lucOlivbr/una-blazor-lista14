@@ -22,7 +22,7 @@ Blazor WebAssembly com .NET 10 e Bootstrap.
 
 ## Screenshot
 
-![Tela do Currículo](screenshot.png)
+![Tela do Currículo](Screenshot.png)
 
 ## Ajuda e Documentação
 
